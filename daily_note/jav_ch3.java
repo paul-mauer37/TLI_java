@@ -1,4 +1,4 @@
-package java_day00;
+package daily_note;
 
 public class jav_ch3 {
 
